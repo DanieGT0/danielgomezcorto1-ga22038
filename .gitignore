@@ -1,0 +1,21 @@
+# Carpeta target de Maven
+target/
+
+# Archivos de configuración de IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Archivos específicos del IDE
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+
+# Otros archivos temporales
+.DS_Store
+*.log
